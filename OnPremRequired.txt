@@ -1,0 +1,27 @@
+Microsoft folder:
+	sp-build-web
+	gulp-core-build-sass
+	gulp-sass
+	sp-build-common
+	gulp-core-build-karma
+	
+Module folder:
+	postcss-modules
+	css-modules-loader-core
+	generic-names
+	string-hash
+	lodash._escapehtmlchar	
+	clean-css
+	vinyl-bufferstream
+	bufferstreams
+	gulp-clip-empty-files
+	gulp-clone
+	gulp-clean-css
+	lodash.defaults
+	lodash._isnative
+	lodash.isobject
+	lodash._objecttypes
+	lodash._shimkeys
+	lodash._escapehtmlchar
+	lodash.values
+	gulp-postcss
