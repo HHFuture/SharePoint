@@ -1,1 +1,4 @@
-hello
+If there is a SQL database called human and a connection needs to be made between SharePoint and the external DB.
+The goal of the connection is to perform the normal CRUD operation through SharePoint visual web parts.
+I use web API to establish the connection using the Rest API techniques.
+
