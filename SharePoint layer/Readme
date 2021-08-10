@@ -1,4 +1,0 @@
-This is the presentation layer which includes the SharePoint visual webparts.
-
-Also, in this layer will create the same model and reposotory as the web API.
-The reposotory will call the methods from the web API layer using the rest API techniques.
