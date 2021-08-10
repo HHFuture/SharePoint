@@ -27,7 +27,7 @@ namespace Human.SP.WebAPI.Controllers
         public HttpResponseMessage GetChildByID(int childID)
         {
             //retrive Student data from NSIS
-            List<Models.Child> _children = Repository.ChildRepository.GetChildByID(parentID);
+            List<Models.Child> _children = Repository.ChildRepository.GetChildByID(childID);
             HttpRequestMessage msg = new HttpRequestMessage();
 
             return Request.CreateResponse(HttpStatusCode.OK, _children);
